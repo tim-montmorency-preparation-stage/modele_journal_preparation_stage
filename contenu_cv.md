@@ -26,9 +26,9 @@ Ville:
 
 Pour les tâches, vous devez écrire en point de forme (maximum 3), vos phrases devraient être le plus courtes possibles et commencer par un verbe d'action (Exemple: Nettoyer les surfaces de travail, créer les horaires, ...)
 Tâches: 
-* 
-* 
-* 
+*
+*
+*
 
 
 # Réalisations scolaires
@@ -73,7 +73,7 @@ Tâches:
 
 ## Logiciels
 Liste de quelques logiciels que tu maîtrise: 
-* 
+*
 * 
 * 
 
@@ -86,7 +86,7 @@ Liste de quelques logiciels que tu maîtrise:
 Liste de tes loisirs ou intérêts en un mot: 
 *
 *
-* 
+*
 * 
 
 # Langues
