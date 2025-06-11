@@ -92,3 +92,11 @@ Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 p
 Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
 
+
+# Palette de couleur
+Inscrire les codes des couleurs que vous souhaitez utiliser dans votre portfolio (Max 5).
+
+# Typographie
+Listez les typos que vous souhaitez utiliser pour votre portfolio:     
+
+
