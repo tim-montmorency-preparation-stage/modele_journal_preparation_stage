@@ -27,7 +27,19 @@ Ce paragraphe met en valeur vos compétences et vos connaissances. Formations ou
 Il sert de fermeture, vous parlez d'une perspective d'entrevue et que vous êtes prêt pour les prochaines démarches.
 
 
-Le paragraphe est terminé par une formule de politesse:       
+Le paragraphe est terminé par une formule de politesse:  
+
+# Formule de politesse
+Voici des exemples de formules de politesse qui peuvent terminer votre lettre. Trouvez-en une qui vous convient! Elle peut être dans cette liste ou encore vous pouvez en générer une à partir des exemples suivants: 
+
+« Veuillez agréer, Madame, Monsieur, l'expression de mes salutations distinguées, »    
+« Je vous prie d'agréer, Madame, Monsieur, l'expression de mes sentiments distingués, »    
+« Dans l'attente de votre réponse, je vous prie d’agréer, Madame, Monsieur, l'expression de mes sincères salutations, »    
+« Dans l’attente de votre retour/réponse, je vous souhaite une agréable journée, »    
+« Dans l’attente de votre retour/réponse, je vous prie de recevoir, Madame, Monsieur, mes salutations distinguées, »    
+
+Source: <a>https://www.monster.fr/conseil-carriere/article/les-formules-de-politesse-a-priviliegier-dans-une-lettre-de-motivation</a>
 
 
+# Signature
 Signature au format image:     
