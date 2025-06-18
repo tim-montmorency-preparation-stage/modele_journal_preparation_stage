@@ -26,14 +26,3 @@ Nomme une compétence en multimédia qui te serait utile pour ce poste:
 Pourquoi cette compétence te serait utile? (1 phrase):     
 Nomme une qualité personnelle qui te serait utile pour le poste:     
 Pourquoi cette qualité est utile? (1 phrase):     
-
-# Formule de politesse
-Voici des exemples de formules de politesse qui peuvent terminer votre lettre. Trouvez-en une qui vous convient! Elle peut être dans cette liste ou encore vous pouvez en générer une à partir des exemples suivants: 
-
-« Veuillez agréer, Madame, Monsieur, l'expression de mes salutations distinguées, »    
-« Je vous prie d'agréer, Madame, Monsieur, l'expression de mes sentiments distingués, »    
-« Dans l'attente de votre réponse, je vous prie d’agréer, Madame, Monsieur, l'expression de mes sincères salutations, »    
-« Dans l’attente de votre retour/réponse, je vous souhaite une agréable journée, »    
-« Dans l’attente de votre retour/réponse, je vous prie de recevoir, Madame, Monsieur, mes salutations distinguées, »    
-
-Source: <a>https://www.monster.fr/conseil-carriere/article/les-formules-de-politesse-a-priviliegier-dans-une-lettre-de-motivation</a>
