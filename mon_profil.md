@@ -15,6 +15,6 @@
 15. Transport: Comment te déplaces-tu?
 16. Compagnies: Trouve 5 compagnies qui pourraient t'intéresser pour ton stage. Insère leur logo avec le lien vers leur site web. Voici des sites pour t'aider à trouver des ressources:    
 
-[XN Québec](https://www.xnquebec.co/repertoire-des-membres/)
-[Guilde du jeu vidéo](https://www.laguilde.quebec/fr/membres/)    
-[Synthèse](https://polesynthese.com/repertoire/studio-creatif)
+[XN Québec](https://www.xnquebec.co/repertoire-des-membres/)    
+[Guilde du jeu vidéo](https://www.laguilde.quebec/fr/membres/)       
+[Synthèse](https://polesynthese.com/repertoire/studio-creatif)    
