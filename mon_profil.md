@@ -1,7 +1,7 @@
-1. Crée une copie du tableau nommé Prénom, nom: [https://miro.com/app/board/uXjVJT9Z-iE=/?share_link_id=655830101183](tableau Miro)
+1. Crée une copie du tableau nommé Prénom, nom: [Tableau Miro](https://miro.com/app/board/uXjVJT9Z-iE=/?share_link_id=655830101183)
 2. Remplace Prénom, nom par ton nom.
 3. Pour la classe, choisis un des éléments suivants: Designer, intégrateur web, modélisateur 3D, Monteur vidéo, concepteur sonore...
-4. Va sur le site suivant [https://www.16personalities.com/fr/test-de-personnalite](16 personnalités) et effectue le test de personnalité.
+4. Va sur le site suivant [16 personnalités](https://www.16personalities.com/fr/test-de-personnalite) et effectue le test de personnalité.
 5. Change la couleur de fond du tableau à ton nom par celle de ton type de personnalité.
 6. Fait une capture-écran de la section Traits de personnalité et remplace la cadre 16 personnalités par celle-ci.
 7. Dans la section type, inscrit le type que le test t'a donné.
@@ -15,6 +15,6 @@
 15. Transport: Comment te déplaces-tu?
 16. Compagnies: Trouve 5 compagnies qui pourraient t'intéresser pour ton stage. Insère leur logo avec le lien vers leur site web. Voici des sites pour t'aider à trouver des ressources:    
 
-[https://www.xnquebec.co/repertoire-des-membres/](XN Québec)    
-[https://www.laguilde.quebec/fr/membres/](Guilde du jeu vidéo)    
-[https://guide.lienmultimedia.com/](Le lien multimédia)    
+[XN Québec](https://www.xnquebec.co/repertoire-des-membres/)
+[Guilde du jeu vidéo](https://www.laguilde.quebec/fr/membres/)    
+[Synthèse](https://polesynthese.com/repertoire/studio-creatif)
