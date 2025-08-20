@@ -11,14 +11,14 @@
   
 - Quelles stratégies m’ont aidé(e) à me sentir plus confiant(e) ?  
 
-### C. Apprentissage global
+## Apprentissage global
 - Conseils ou commentaires les plus utiles reçus.
   
 - Ce que j’ai appris sur les attentes des employeurs.
   
 - Le type d’entreprise ou de poste qui m’intéresse le plus maintenant (et pourquoi).  
 
-### D. Plan d’action
+## Plan d’action
 - Entreprises à relancer.
   
 - Améliorations à apporter (CV, lettre, présentation).
