@@ -20,3 +20,12 @@
 1.     
 2.     
 3.      
+
+
+## Recherche sur les entreprises
+
+Ajoutez les différentes entreprises que vous rencontrerez au tableau. 
+
+| Entreprise | Domaine | Impression générale | Nom d'un projet intéressant, 2-3 mots clés de pourquoi | Valeur commune | 
+|------------|---------------|---------------------|--------------|-------------------|
+| Exemple    | web     | Positive            | Projet Y, innovant, créatif | Collaboration  | 
