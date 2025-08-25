@@ -19,3 +19,5 @@
 [XN Québec](https://www.xnquebec.co/repertoire-des-membres/)    
 [Guilde du jeu vidéo](https://www.laguilde.quebec/fr/membres/)       
 [Synthèse](https://polesynthese.com/repertoire/studio-creatif)    
+
+18. Quête: Tente de trouver une quête pour ton personnage! Quel est son objectif dans sa recherche de stage? 
