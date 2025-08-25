@@ -13,7 +13,8 @@
 13. Futur: Milieu du travail, université ou indécis?
 14. Territoire: Encercle la zone idéale pour ton stage.
 15. Transport: Comment te déplaces-tu?
-16. Compagnies: Trouve 5 compagnies qui pourraient t'intéresser pour ton stage. Insère leur logo avec le lien vers leur site web. Voici des sites pour t'aider à trouver des ressources:    
+16. Intérêts: Coche les cases des domaines qui t'intéressent pour ton stage. 
+17. Compagnies: Trouve 5 compagnies qui pourraient t'intéresser pour ton stage. Insère leur logo avec le lien vers leur site web. Voici des sites pour t'aider à trouver des ressources:    
 
 [XN Québec](https://www.xnquebec.co/repertoire-des-membres/)    
 [Guilde du jeu vidéo](https://www.laguilde.quebec/fr/membres/)       
