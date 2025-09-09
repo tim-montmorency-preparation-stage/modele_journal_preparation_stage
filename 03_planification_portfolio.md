@@ -47,50 +47,89 @@ Copier-coller votre objectif de carrière ici.
 
 # Projet 1 
 Nom de votre projet:     
-Réalisé dans le cadre du cours:     
-Individuel ou en équipe:    
-Nom de vos coéquipiers:     
+Mention académique ou personnel:     
+Réalisé dans le cadre du cours:        
+Individuel ou en équipe:     
+Nom de vos coéquipiers:      
 Votre ou vos rôle(s) dans le projet:     
-Logiciels ou techniques utilisées:     
+Logiciels ou techniques utilisées:    
+Catégorie du projet:      
+Description courte du projet (Résumé en 1 phrase):     
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):     
 Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
 
 # Projet 2 
 Nom de votre projet:     
-Réalisé dans le cadre du cours:     
-Individuel ou en équipe:    
-Nom de vos coéquipiers:     
+Mention académique ou personnel:     
+Réalisé dans le cadre du cours:        
+Individuel ou en équipe:     
+Nom de vos coéquipiers:      
 Votre ou vos rôle(s) dans le projet:     
-Logiciels ou techniques utilisées:     
+Logiciels ou techniques utilisées:    
+Catégorie du projet:      
+Description courte du projet (Résumé en 1 phrase):     
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):     
 Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
-
 
 
 # Projet 3 
 Nom de votre projet:     
-Réalisé dans le cadre du cours:     
-Individuel ou en équipe:    
-Nom de vos coéquipiers:     
+Mention académique ou personnel:     
+Réalisé dans le cadre du cours:        
+Individuel ou en équipe:     
+Nom de vos coéquipiers:      
 Votre ou vos rôle(s) dans le projet:     
-Logiciels ou techniques utilisées:     
+Logiciels ou techniques utilisées:    
+Catégorie du projet:      
+Description courte du projet (Résumé en 1 phrase):     
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):     
 Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
-
 
 # Projet 4
 Nom de votre projet:     
-Réalisé dans le cadre du cours:     
-Individuel ou en équipe:    
-Nom de vos coéquipiers:     
+Mention académique ou personnel:     
+Réalisé dans le cadre du cours:        
+Individuel ou en équipe:     
+Nom de vos coéquipiers:      
 Votre ou vos rôle(s) dans le projet:     
-Logiciels ou techniques utilisées:     
+Logiciels ou techniques utilisées:    
+Catégorie du projet:      
+Description courte du projet (Résumé en 1 phrase):     
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):     
 Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
+
+# Projet 5 (Optionnel)
+Nom de votre projet:     
+Mention académique ou personnel:     
+Réalisé dans le cadre du cours:        
+Individuel ou en équipe:     
+Nom de vos coéquipiers:      
+Votre ou vos rôle(s) dans le projet:     
+Logiciels ou techniques utilisées:    
+Catégorie du projet:      
+Description courte du projet (Résumé en 1 phrase):     
+Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):     
+Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
+Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
+
+# Projet 6 (Optionnel)
+Nom de votre projet:     
+Mention académique ou personnel:     
+Réalisé dans le cadre du cours:        
+Individuel ou en équipe:     
+Nom de vos coéquipiers:      
+Votre ou vos rôle(s) dans le projet:     
+Logiciels ou techniques utilisées:    
+Catégorie du projet:      
+Description courte du projet (Résumé en 1 phrase):     
+Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):     
+Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
+Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
+
 
 # Processus de création
 Sélectionnez un de vos projets et insérez son processus de création. À l'aide d'images et de texte vous devez nous expliquer le processus de création étape par étape de votre projet. 
