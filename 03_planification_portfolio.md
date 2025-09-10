@@ -133,6 +133,3 @@ Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, .
 
 # Processus de création
 Sélectionnez un de vos projets et insérez son processus de création. À l'aide d'images et de texte vous devez nous expliquer le processus de création étape par étape de votre projet. 
-
-
-
