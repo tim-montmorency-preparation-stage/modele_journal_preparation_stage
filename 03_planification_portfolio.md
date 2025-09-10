@@ -1,46 +1,47 @@
 # Compétences
 Cochez les compétences que vous aimeriez utiliser en stage. Ajoutez-en au besoin.:     
-- [ ] Designer, coder et publier des sites Web dynamiques    
+- [x] Designer, coder et publier des sites Web dynamiques    
 - [ ] Réaliser et tourner des vidéos    
 - [ ] Animer des créations 2D et 3D    
-- [ ] Concevoir des compositions sonores et visuelles interactives    
-- [ ] Assembler des environnements de réalité virtuelle    
-- [ ] Élaborer des spectacles augmentés    
-- [ ] Exploiter les nouvelles technologies et leur potentiel créateur    
-- [ ] Penser et optimiser l’expérience utilisateur    
-- [ ] Créer des univers immersifs et interactifs    
-- [ ] Collaborer avec diverses disciplines artistiques ou interdisciplinaires    
+- [x] Concevoir des compositions sonores et visuelles interactives    
+- [x] Assembler des environnements de réalité virtuelle    
+- [x] Élaborer des spectacles augmentés    
+- [x] Exploiter les nouvelles technologies et leur potentiel créateur    
+- [x] Penser et optimiser l’expérience utilisateur    
+- [x] Créer des univers immersifs et interactifs    
+- [x] Collaborer avec diverses disciplines artistiques ou interdisciplinaires    
 
 
 # Logiciels 
 Cochez les logiciels avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:     
-- [ ] Visual Studio Code
-- [ ] Photoshop
-- [ ] Illustrator
+- [x] Visual Studio Code
+- [x] Photoshop
+- [x] Illustrator
 - [ ] Lightroom
 - [ ] Premiere
 - [ ] Media Encoder
 - [ ] After Effects
-- [ ] Davinci Resolve
-- [ ] Maya
-- [ ] Unity
-- [ ] Reaper
+- [x] Davinci Resolve
+- [x] Maya
+- [x] Unity
+- [x] Reaper
 - [ ] Ableton Live
-- [ ] Max
-- [ ] Arduino
+- [x] Max
+- [x] Arduino
 - [ ] MadMapper
-- [ ] Microsoft Teams
+- [x] Microsoft Teams
+- [x] Touch Designer
 
 # Langage de programmation
 Cochez les langages avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:    
-- [ ] HTML
-- [ ] CSS
-- [ ] JavaScript
+- [x] HTML
+- [x] CSS
+- [x] JavaScript
 - [ ] PHP
 - [ ] SQL
-- [ ] C# (Unity)
-- [ ] C++ (Arduino)
-- [ ] Connaissance de systèmes de gestion de contenu (CMS)
+- [x] C# (Unity)
+- [x] C++ (Arduino)
+- [x] Connaissance de systèmes de gestion de contenu (CMS)
 
 # Objectif de carrière
 Copier-coller votre objectif de carrière ici. 
